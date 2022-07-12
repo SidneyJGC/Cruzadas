@@ -1,0 +1,14 @@
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.csproj.AssemblyReference.cache
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.AssemblyInfoInputs.cache
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.AssemblyInfo.cs
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.csproj.CoreCompileInputs.cache
+D:\examenfinal\examenfinal\bin\Debug\netcoreapp3.1\examenfinal.exe
+D:\examenfinal\examenfinal\bin\Debug\netcoreapp3.1\examenfinal.deps.json
+D:\examenfinal\examenfinal\bin\Debug\netcoreapp3.1\examenfinal.runtimeconfig.json
+D:\examenfinal\examenfinal\bin\Debug\netcoreapp3.1\examenfinal.runtimeconfig.dev.json
+D:\examenfinal\examenfinal\bin\Debug\netcoreapp3.1\examenfinal.dll
+D:\examenfinal\examenfinal\bin\Debug\netcoreapp3.1\examenfinal.pdb
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.dll
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.pdb
+D:\examenfinal\examenfinal\obj\Debug\netcoreapp3.1\examenfinal.genruntimeconfig.cache
